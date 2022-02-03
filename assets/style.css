@@ -1,0 +1,95 @@
+@font-face {
+    font-family: FIFA;
+    src: url(/assets/font_style.ttf);
+}
+
+body {
+    background-color: #31302f;
+    color: #31302f;
+    height: 100%;
+    background: rgb(23,23,23);
+    background: linear-gradient(200deg, rgba(49,48,47,1) 100%, rgba(49,48,47,1) 35%, rgba(49,48,47,1) 100%);
+    padding: 4%;
+    font-family: FIFA;
+}
+
+.navbar {
+    color: #FFD523;
+    background-color: transparent!important;
+    margin-bottom: 3%
+}
+
+.card_attributes {
+    background-color: #1e1e1e;
+    color: #FFD523;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.card-body {
+    background-color: #1e1e1e;
+    color: #B2B1B9;
+}
+
+.card {
+    background-color: #1e1e1e;
+    color: #FFD523;
+}
+
+.cards {
+    background-color: #1e1e1e;
+    color: #FFD523;
+    text-align: center;
+}
+
+.card_txt {
+    background-color: #1e1e1e;
+    color: #FFD523;
+    margin-left: 5%;
+    font-size: 18px;
+}
+
+.card_info2 {
+    background-color: #1e1e1e;
+    text-align: end;
+    color: #FFD523;
+}
+.card_info1 {
+    background-color: #1e1e1e;
+    color:#FFD523;
+}
+
+#label1 {
+    color: #FFD523;
+    font-size: 250%;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+.label2 {
+    color:#B2B1B9;
+    font-size: 100%;
+}
+
+.card_tabs {
+    background-color: #1e1e1e;
+    color: #FFD523;
+    margin: 3%;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.nav-link {
+    background-color: #1e1e1e;
+    color: #FFD523;
+}
+
+.nav-link:hover{
+    background-color: #1e1e1e;
+    color: #FFD523;
+    border: transparent;
+}
