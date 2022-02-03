@@ -3,6 +3,7 @@
 Cryptocurrency Wallet
 
 Web-based online wallet in connection with Binance Api for long-term investment
+
 Open-source wallet project with data analytics, for four selected cryptocurrencies
 
 - This is open-source cryptocurrencies wallet for the crypto community
